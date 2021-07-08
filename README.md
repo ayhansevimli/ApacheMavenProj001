@@ -32,20 +32,14 @@ Once you have created the project root directory, create a file called pom.xml i
 
 Inside the pom.xml file you put the following XML:
 
-
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-
     <groupId>com.SDK</groupId>
-
     <artifactId>hello-world</artifactId>
-
     <version>1.0.0</version>
-
 </project>
 
 This is a minimal pom.xml file.
